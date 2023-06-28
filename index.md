@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Home Language Insights: Getting to know dbt and BigQuery too.
 ---
 
