@@ -1,57 +1,36 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# CMA Centric Home Language Insights
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Furhtering Home Language (HL) Insights with BigQuery and dbt._
 
 </header>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+<div>
+  
+## More Plotting, Less Mapping
 
-## Finish
+_[Maps are great](https://imds-dash-home-language-app.herokuapp.com/), but can be distracting!_
 
-_Congratulations friend, you've completed this course!_
+<img src=assets/newplot.png alt=Map width=300 align=right>
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+This blog will focus on [CMA](https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/Definition-eng.cfm?ID=geo009) specific charts that show changes in HL composition
+over time and the differences between CMAs. Hopefully the charts are lucid and
+offer simple comparisons.
 
-Your blog is now live and has been deployed!
+</div>
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Overall objectives:
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first a blog post with Jekyll!
+- Provide HL analysis for all CMAs in Canada
+- Included Census data for 2011, 2016 and 2021 using their original Dissemination Area (DA) enumerations (not prorating results to the 2021 DAs, a bit messy)
+- Provded side-by-side comparisons
+- Get to know Canada a litte better!
 
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+## Sample of things to come...
 
 <footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+  
+<img src=assets/bar_graph_comparision.png alt="Bar Plot">
 
 </footer>
