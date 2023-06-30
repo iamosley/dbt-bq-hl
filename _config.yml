@@ -1,3 +1,5 @@
 theme: minima
 title: Home Language Insights with dbt and BigQuery
 description: Diving further into Home Language characteristics by CMA using Data Studio charts with BigQuery and managed with dbt.
+author: Ian Mosley
+email: iamosley@fastmail.com
