@@ -1,12 +1,6 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 <header>
 
-<h2>CMA Centric Home Language Insights</h2>
+# CMA Centric Home Language Insights
 
 _Furhtering Home Language (HL) Insights with BigQuery and dbt._
 
