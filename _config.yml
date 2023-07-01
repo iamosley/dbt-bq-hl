@@ -6,4 +6,4 @@ author:
   email: iamosley@fastmail.com
 minima:
   header_pages:
-    - README.md
+    - about.html
