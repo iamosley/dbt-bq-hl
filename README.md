@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 <header>
 
 # CMA Centric Home Language Insights
