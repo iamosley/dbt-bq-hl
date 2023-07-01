@@ -6,7 +6,7 @@ permalink: /about/
 
 <header>
 
-# CMA Centric Home Language Insights
+<h2>CMA Centric Home Language Insights</h2>
 
 _Furhtering Home Language (HL) Insights with BigQuery and dbt._
 
